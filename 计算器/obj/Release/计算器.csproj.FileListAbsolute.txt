@@ -1,0 +1,11 @@
+C:\Users\12195\Desktop\计算器\bin\Release\计算器.exe.config
+C:\Users\12195\Desktop\计算器\bin\Release\计算器.exe
+C:\Users\12195\Desktop\计算器\bin\Release\计算器.pdb
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.csproj.AssemblyReference.cache
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.csproj.SuggestedBindingRedirects.cache
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.Form1.resources
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.Properties.Resources.resources
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.csproj.GenerateResource.cache
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.csproj.CoreCompileInputs.cache
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.exe
+C:\Users\12195\Desktop\计算器\obj\Release\计算器.pdb

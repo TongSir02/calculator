@@ -1,0 +1,31 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\bin\Debug\计算器.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\bin\Debug\计算器.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\bin\Debug\计算器.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\obj\Debug\计算器.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\obj\Debug\计算器.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\Lenovo\Desktop\计算器\计算器\bin\Debug\计算器.exe.config
+C:\Users\Lenovo\Desktop\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\Lenovo\Desktop\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.exe
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.pdb
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\计算器\计算器\obj\Debug\计算器.Form2.resources
+C:\Users\12195\Desktop\计算器\bin\Debug\计算器.exe.config
+C:\Users\12195\Desktop\计算器\bin\Debug\计算器.exe
+C:\Users\12195\Desktop\计算器\bin\Debug\计算器.pdb
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.csproj.AssemblyReference.cache
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.csproj.SuggestedBindingRedirects.cache
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.exe
+C:\Users\12195\Desktop\计算器\obj\Debug\计算器.pdb
